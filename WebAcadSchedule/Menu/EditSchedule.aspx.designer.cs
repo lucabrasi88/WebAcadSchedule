@@ -7,27 +7,18 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WebAcadSchedule {
+namespace WebAcadSchedule.Menu {
     
     
-    public partial class _Default {
+    public partial class EditSchedule {
         
         /// <summary>
-        /// addLink control.
+        /// sbjGridView control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor addLink;
-        
-        /// <summary>
-        /// editLink control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlAnchor editLink;
+        protected global::System.Web.UI.WebControls.GridView sbjGridView;
     }
 }

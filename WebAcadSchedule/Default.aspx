@@ -18,10 +18,10 @@
             <h5>Przeglądaj plan zajęć</h5>
         </li>
         <li class="two">
-            <h5>Dodaj plan zajęć</h5>
+            <h5><a id="addLink" runat="server" href="~/Menu/AddSchedule.aspx">Dodaj plan zajęć</a></h5>
         </li>
         <li class="three">
-            <h5>Edytuj plan zajęć</h5>            
+            <h5><a id="editLink" runat="server" href="~/Menu/EditSchedule.aspx">Edytuj plan zajęć</a></h5>            
         </li>
         <li class="four">
             <h5>Dodaj element planu</h5>

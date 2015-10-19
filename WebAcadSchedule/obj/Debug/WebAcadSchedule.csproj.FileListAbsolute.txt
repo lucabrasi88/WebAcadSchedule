@@ -25,6 +25,5 @@ c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedu
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\DotNetOpenAuth.OpenId.xml
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\DotNetOpenAuth.AspNet.xml
-c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\obj\Debug\WebAcadSchedule.csprojResolveAssemblyReference.cache
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\obj\Debug\WebAcadSchedule.dll
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\obj\Debug\WebAcadSchedule.pdb

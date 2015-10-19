@@ -196,6 +196,8 @@
     <Content Include="Images\orderedList7.png" />
     <Content Include="Images\orderedList8.png" />
     <Content Include="Images\orderedList9.png" />
+    <Content Include="Menu\AddSchedule.aspx" />
+    <Content Include="Menu\EditSchedule.aspx" />
     <Content Include="packages.config" />
     <None Include="Scripts\jquery-1.7.1.intellisense.js" />
     <Content Include="Scripts\jquery-1.7.1.js" />
@@ -292,6 +294,20 @@
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\AddSchedule.aspx.cs">
+      <DependentUpon>AddSchedule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Menu\AddSchedule.aspx.designer.cs">
+      <DependentUpon>AddSchedule.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Menu\EditSchedule.aspx.cs">
+      <DependentUpon>EditSchedule.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Menu\EditSchedule.aspx.designer.cs">
+      <DependentUpon>EditSchedule.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
