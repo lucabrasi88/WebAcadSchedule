@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true">
+  <class name="WebAcadSchedule.Domain.Subjects, WebAcadSchedule.Domain" lazy="false">
+    <id name="id" access="field">
+      <generator class="native" />
+    </id>
+    <property name="Name" access="field" column="Name"/>
+    <property name="SubjectTypeId" access="field"  column="SubjectTypeId"/>
+  </class>
+</hibernate-mapping>

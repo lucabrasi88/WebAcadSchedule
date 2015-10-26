@@ -22,6 +22,15 @@ namespace WebAcadSchedule.Menu {
         protected global::System.Web.UI.WebControls.DropDownList ddlSubjects;
         
         /// <summary>
+        /// ddlSubjectTypes control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.DropDownList ddlSubjectTypes;
+        
+        /// <summary>
         /// ddlDays control.
         /// </summary>
         /// <remarks>

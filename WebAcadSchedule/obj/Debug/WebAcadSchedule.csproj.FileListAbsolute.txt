@@ -27,3 +27,8 @@ c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedu
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\DotNetOpenAuth.AspNet.xml
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\obj\Debug\WebAcadSchedule.dll
 c:\users\luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\obj\Debug\WebAcadSchedule.pdb
+C:\Users\Luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\Iesi.Collections.dll
+C:\Users\Luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\NHibernate.dll
+C:\Users\Luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\Iesi.Collections.xml
+C:\Users\Luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\NHibernate.xml
+C:\Users\Luk\documents\visual studio 2012\Projects\WebAcadSchedule\WebAcadSchedule\bin\HBM\Subjects.hbm.xml

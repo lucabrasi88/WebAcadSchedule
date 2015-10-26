@@ -3,7 +3,9 @@
 <asp:Content runat="server" ID="FeaturedContent" ContentPlaceHolderID="FeaturedContent">
     <div>
         <p>Wybierz przedmiot
-        <asp:DropDownList runat="server" ID="ddlSubjects"></asp:DropDownList></p>
+        <asp:DropDownList runat="server" ID="ddlSubjects" AutoPostBack="true" OnSelectedIndexChanged="Subjects_SelectedIndexChanged"></asp:DropDownList></p>
+        <p>Wybierz typ przedmiotu
+        <asp:DropDownList runat="server" ID="ddlSubjectTypes" AutoPostBack="true"></asp:DropDownList></p>
         <p>Wybierz dzień
         <asp:DropDownList runat="server" ID="ddlDays"></asp:DropDownList></p>
         <p>Wybierz godzinę
